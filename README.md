@@ -37,10 +37,20 @@
 ---
 
 <img align="left" alt="d2207-sahu Github Stats" src="https://github-readme-stats.vercel.app/api?username=d2207-sahu&theme=gotham&show_icons=true&count_private=true&hide=prs,issues" />
+</a>
+<a href="https://github.com/d2207-sahu/graphr_media">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=d2207-sahu&repo=VelocityX&theme=dark" />
+</a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d2207-sahu&theme=gotham)](https://github.com/d2207-sahu/github-readme-stats)
 
+---
 
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
 
 [website]: https://graphrmedia.in/
 [twitter]: https://twitter.com/divyanshu_sahu_?s=09

@@ -1,4 +1,4 @@
-### Hi there, I'm Divaynshu Sahu - aka [d2207-sahu][website] 👋
+### Hi there, I'm Divyanshu Sahu - aka [d2207-sahu][website] 👋
 
 ## I'm a Life Long Student, FreeLancer, Developer, Startup-Owner and VideoGrapher!
 - 🔭 I’m currently working on a [My Dream Project][website]!

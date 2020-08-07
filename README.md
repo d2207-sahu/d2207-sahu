@@ -1,10 +1,11 @@
 # I'm Divyanshu Sahu - aka [d2207-sahu][website] 👋
 ---
-## I'm a Life Long Student, FreeLancer, Developer, Startup-Owner and VideoGrapher!
+## I'm a Life Long Student, Freelancer, Developer, Startup-Owner and VideoGrapher!
 - 🔭 I’m currently working on a [My Dream Project][website]!
 - 🌱 I’m currently learning Backend ( Deno )
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Create Something Valuable.
+- 💬 Ask me about Flutter or any tech related stuff.
 
 ### Connect with me:
 
@@ -17,7 +18,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Flutter" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />][webdevplaylist]
+[<img align="left" alt="Flutter" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />]
 [<img align="left" alt="Firebase" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />]
 [<img align="left" alt="Android" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />]
 [<img align="left" alt="Java" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />]
@@ -37,7 +38,11 @@
 
 ---
 
-<img align="left" alt="d2207-sahu Github Stats" src="https://github-readme-stats.vercel.app/api?username=d2207-sahu&show_icons=true&hide_border=true" />
+<img align="left" alt="d2207-sahu Github Stats" src="https://github-readme-stats.vercel.app/api?username=d2207-sahu&theme=dark&show_icons=true&count_private=true&hide=prs,issues" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d2207-sahu&theme=dark)](https://github.com/d2207-sahu/github-readme-stats)
+
+
 
 [website]: https://graphrmedia.in/
 [twitter]: https://twitter.com/divyanshu_sahu_?s=09

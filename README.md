@@ -44,7 +44,7 @@
 ---
 
 ### Visitors Count
-<img align="left" src = "https://profile-counter.glitch.me/TheAlphamerc/count.svg" alt ="Loading">
+<img align="left" src = "https://profile-counter.glitch.me/d2207-sahu/count.svg" alt ="Loading">
 
 ---
 

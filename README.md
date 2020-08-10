@@ -39,7 +39,7 @@
 <img align="left" alt="d2207-sahu Github Stats" src="https://github-readme-stats.vercel.app/api?username=d2207-sahu&theme=gotham&show_icons=true&count_private=true&hide=prs,issues" />
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d2207-sahu&theme=gotham)](https://github.com/d2207-sahu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d2207-sahu&theme=gotham&hide=swift,objective-c)](https://github.com/d2207-sahu/github-readme-stats)
 
 ---
 

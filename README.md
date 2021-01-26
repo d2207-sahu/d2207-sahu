@@ -34,7 +34,7 @@
 - [GraphrMedia (Flutter Web)[Takes 15 sec to Load as Flutter web in Beta]](https://graphrmedia.in/)
 <!-- BLOG-POST-LIST:END -->
 <!-- BLOG-POST-LIST:START -->
-- [IITeens App : Published in Google Plays Store. Was head of the APP TEAM.]](https://play.google.com/store/apps/details?id=com.iiteen.iiteen_app)
+- [IITeens App : Published in Google Plays Store. Was head of the APP TEAM](https://play.google.com/store/apps/details?id=com.iiteen.iiteen_app)
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -57,6 +57,7 @@
 
 </div>
 
+[stackoverflow]: https://stackoverflow.com/users/13139719/divyanshu-sahu
 [website]: https://graphrmedia.in/
 [twitter]: https://twitter.com/divyanshu_sahu_?s=09
 [youtube]: https://youtube.com/graphrmedia

@@ -34,7 +34,7 @@
 - [IITeens App : Published in Google Plays Store. Was head of the APP TEAM](https://play.google.com/store/apps/details?id=com.iiteen.iiteen_app)
 <!-- BLOG-POST-LIST:END -->
 <!-- BLOG-POST-LIST:START -->
-- [AI BHarata Myaira App : FLutter APp developer Internship[](https://play.google.com/store/apps/details?id=com.aibharata.myaira)
+- [AI BHarata Myaira App : FLutter APp developer Internship](https://play.google.com/store/apps/details?id=com.aibharata.myaira)
 <!-- BLOG-POST-LIST:END -->
 
 ---

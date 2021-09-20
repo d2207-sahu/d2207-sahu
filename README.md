@@ -1,11 +1,7 @@
 # I'm Divyanshu Sahu - aka [d2207-sahu][website] 👋
 ---
 ## I'm a Life Long Student, Freelancer, Developer, Startup-Owner and VideoGrapher!
-- 🔭 I’m currently working on a All India Test Series App!
-- 🌱 I’m currently learning Flutter.
-- 👯 I’m looking to collaborate with other content creators.
-- 🥅 2020 Goals: Create Something Valuable.
-- 💬 Ask me about Flutter or any tech related stuff.
+- 🔭 I’m currently working on tamoq.
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/stackoverflow.svg" />][stackoverflow]
@@ -23,6 +19,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 <br />
 <br />
@@ -35,6 +32,9 @@
 <!-- BLOG-POST-LIST:END -->
 <!-- BLOG-POST-LIST:START -->
 - [IITeens App : Published in Google Plays Store. Was head of the APP TEAM](https://play.google.com/store/apps/details?id=com.iiteen.iiteen_app)
+<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [AI BHarata Myaira App : FLutter APp developer Internship[](https://play.google.com/store/apps/details?id=com.aibharata.myaira)
 <!-- BLOG-POST-LIST:END -->
 
 ---

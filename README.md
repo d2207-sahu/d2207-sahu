@@ -28,13 +28,10 @@
 
 ###  My Projects
 <!-- BLOG-POST-LIST:START -->
-- [Netflix Clone (Flutter Web)(https://netflix-divyanshu.vercel.app/browse))
+- Netflix Clone (https://netflix-divyanshu.vercel.app/browse))
 <!-- BLOG-POST-LIST:END -->
 <!-- BLOG-POST-LIST:START -->
-- [IITeens App : Published in Google Plays Store. Was head of the APP TEAM](https://play.google.com/store/apps/details?id=com.iiteen.iiteen_app)
-<!-- BLOG-POST-LIST:END -->
-<!-- BLOG-POST-LIST:START -->
-- [AI BHarata Myaira App : FLutter APp developer Internship](https://play.google.com/store/apps/details?id=com.aibharata.myaira)
+- IITeens App : Published in Google Plays Store.(https://play.google.com/store/apps/details?id=com.iiteen.iiteen_app)
 <!-- BLOG-POST-LIST:END -->
 
 ---

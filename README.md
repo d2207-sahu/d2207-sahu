@@ -15,7 +15,7 @@
 ### Languages and Tools:
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/next/next.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nextjs/nextjs.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -28,7 +28,7 @@
 
 ###  My Projects
 <!-- BLOG-POST-LIST:START -->
-- [GraphrMedia (Flutter Web)[Takes 15 sec to Load as Flutter web in Beta]](https://graphrmedia.in/)
+- [Netflix Clone (Flutter Web)(https://netflix-divyanshu.vercel.app/browse))
 <!-- BLOG-POST-LIST:END -->
 <!-- BLOG-POST-LIST:START -->
 - [IITeens App : Published in Google Plays Store. Was head of the APP TEAM](https://play.google.com/store/apps/details?id=com.iiteen.iiteen_app)

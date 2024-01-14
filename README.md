@@ -1,7 +1,7 @@
 # I'm Divyanshu Sahu - aka [d2207-sahu][website] 👋
 ---
-## I'm a Life Long Student, Freelancer, Developer, Startup-Owner and VideoGrapher!
-- 🔭 I’m currently working on tamoq.
+## I'm a Life Long Student, Developer, Musician and VideoGrapher!
+- 🔭 I’m currently working on Deloitte USI.
 
 <!-- ### Connect with me:
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/stackoverflow.svg" />][stackoverflow]
@@ -14,7 +14,7 @@
 
 ### Languages and Tools:
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
